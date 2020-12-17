@@ -5,10 +5,11 @@
 ## 나에 관해
 - 저는 웹서비스를 제공하고 있는 평범한 학생입니다
 
+## 참여한 프로젝트
+- [marie-kor-pj(WEBSITE)](https://github.com/marie-kor-pj)
+
 ## Skill
-- php
-- css
-- js
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=kimka2013&layout=compact)]()
 
 ## 연락은 이곳으로 바랍니다!
 - bg05@kimkr.company
