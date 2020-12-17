@@ -1,16 +1,14 @@
-### Hi there 👋
+### 만나서 반가워요! 👋
 
-<!--
-**kimka2013/kimka2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+킴크알 컴퍼니 CEO이자 각종 서비스를 제공하고 있는 김병국입니다
 
-Here are some ideas to get you started:
+## 나에 관해
+- 저는 웹서비스를 제공하고 있는 평범한 학생입니다
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skill
+- php
+- css
+- js
+
+## 연락은 이곳으로 바랍니다!
+- bg05@kimkr.company
