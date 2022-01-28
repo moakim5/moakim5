@@ -1,7 +1,6 @@
 ### 만나서 반가워요! 👋
 
-반갑습니다!<br>
-저는 10대 학생 김병국입니다<br><br>
+반갑습니다!<br><br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=kimka2013&show_icons=true&theme=dark)
 
 ## 나에 관해
@@ -16,4 +15,4 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=kimka2013&layout=compact)]()
 
 ## 연락은 이곳으로 바랍니다!
-- kimbyu900@gmail.com
+- moakim5@protonmail.com
