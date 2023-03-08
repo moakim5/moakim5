@@ -11,13 +11,11 @@
 - php (1)
 - vue.js (2)
 - python (3)
+<br>[![](https://github-readme-stats.vercel.app/api/top-langs?username=moakim5&layout=compact)]()
 
 ## 참여하고있는(한) 프로젝트
 - [marie-kor-pj(WEBSITE)](https://github.com/marie-kor-pj)
 - HackaLearn [Team: MS Player](https://github.com/devrel-kr/HackaLearn/blob/main/teams/MS%20Player.md)
-
-## Skill
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=moakim5&layout=compact)]()
 
 ## 연락은 이곳으로 바랍니다!
 - moakim@renyu.cat
