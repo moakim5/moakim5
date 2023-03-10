@@ -11,8 +11,6 @@
 - php (1)
 - vue.js (2)
 - python (3)
-<br>
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=fpalslxent&layout=compact)]()
 
 ## 참여하고있는(한) 프로젝트
 - [marie-kor-pj(WEBSITE)](https://github.com/marie-kor-pj)
