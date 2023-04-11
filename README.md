@@ -19,6 +19,6 @@
 
 ## 연락은 이곳으로 바랍니다!
 - fpalslxent@renyu.ai
-- moakim
+- moakim@renyu.cat
 
 <br>![github stats](https://github-readme-stats.vercel.app/api?username=fpalslxent&show_icons=true&theme=dark)
