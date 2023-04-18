@@ -17,8 +17,4 @@
 - [marie-kor-pj(WEBSITE)](https://github.com/marie-kor-pj) (2019.03)
 - HackaLearn [Team: MS Player](https://github.com/devrel-kr/HackaLearn/blob/main/teams/MS%20Player.md) (2021.08)
 
-## 연락은 이곳으로 바랍니다!
-- fpalslxent@renyu.ai
-- moakim@renyu.cat
-
 <br>![github stats](https://github-readme-stats.vercel.app/api?username=fpalslxent&show_icons=true&theme=dark)
