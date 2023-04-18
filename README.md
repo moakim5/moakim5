@@ -9,13 +9,13 @@
 - 현) Renyu AI 팀 소속
 
 ## Skill
-- php (2018~)
-- python (2022~)
-- vue.js (2023~)
+- php (2018.08~)
+- python (2022.05~)
+- vue.js (2023.01~)
 
 ## 참여하고있는(한) 프로젝트
-- [marie-kor-pj(WEBSITE)](https://github.com/marie-kor-pj)
-- HackaLearn [Team: MS Player](https://github.com/devrel-kr/HackaLearn/blob/main/teams/MS%20Player.md)
+- [marie-kor-pj(WEBSITE)](https://github.com/marie-kor-pj) (2019.03)
+- HackaLearn [Team: MS Player](https://github.com/devrel-kr/HackaLearn/blob/main/teams/MS%20Player.md) (2021.08)
 
 ## 연락은 이곳으로 바랍니다!
 - fpalslxent@renyu.ai
