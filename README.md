@@ -6,7 +6,7 @@
 ## I'm?
 - PHP Backend Developer 입니다
 - PHP만 안하고 Python, Node.js 등 여러 언어에 도전해보고 있어요
-- 현) [Renyu AI](https://renyu.ai) 팀 소속
+- 현) [Renyu AI](https://renyu.ai) 팀 소속 (2023.02~)
 
 ## Skill
 - php (2018.08~)
