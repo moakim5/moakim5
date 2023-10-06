@@ -1,19 +1,17 @@
-### 만나서 반가워요! 👋
-
-저는 레미니입니다<br>
-주로 웹페이지 백엔드를 제작하는 개발자입니다<br>
-
+# Welcome! 👋
+![IMG_5164](https://github.com/fpalslxent/fpalslxent/assets/32701658/4ff80312-9e83-41f8-9ca4-bdbfe8897384)
 ## I'm?
-- PHP Backend Developer 입니다
-- PHP만 안하고 Python, Node.js 등 여러 언어에 도전해보고 있어요
-- 현) [Renyu AI](https://renyu.ai) 팀 소속 (2023.02~)
+- PHP Backend Developer
+- other language is Node.js and Python
+- Now [Renyu AI](https://renyu.ai) Team (2023.02~)
 
 ## Skill
 - php (2018.08~)
 - python (2022.05~)
+- node.js (2023.01~)
 - vue.js (2023.01~)
 
-## 참여한 프로젝트
+## Contributed projects
 - [marie-kor-pj(WEBSITE)](https://github.com/marie-kor-pj) (2019.03)
 - HackaLearn [Team: MS Player](https://github.com/devrel-kr/HackaLearn/blob/main/teams/MS%20Player.md) (2021.08)
 
