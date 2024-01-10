@@ -5,6 +5,7 @@
 - other language is Node.js and Python
 - Now [Renyu AI](https://renyu.ai) Team (2023.02~)
 - Live in 🇰🇷
+- Chosun University School of Information and Communication Engineering (2024.03~)
 
 ## Skill
 - php (2018.08~)
