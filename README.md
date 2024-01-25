@@ -33,12 +33,19 @@
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     </div>
+     <!-- IDE -->
+    <p><strong>Others</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/phpstorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white"> 
+        <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"> 
+</div>
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> 
-</div><br>
+</div>
+      <br>
 </div>
 
 ## 🙋 Contributed Projects
