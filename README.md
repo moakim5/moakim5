@@ -34,7 +34,7 @@
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     </div>
      <!-- IDE -->
-    <p><strong>Others</strong></p>
+    <p><strong>IDE</strong></p>
     <div>
         <img src="https://img.shields.io/badge/phpstorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white"> 
         <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"> 
