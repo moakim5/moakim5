@@ -6,6 +6,7 @@
 - PHP Backend Developer
 - other language is Node.js and Python
 - Now [RENYU AI](https://renyu.ai) Team (2023.02~)
+- Now [Project ELIV](https://eliv.kr) Team (2024.06~)
 - Live in 🇰🇷
 - Chosun University Dept. of Information and Communication Engineering (2024.03~)
 
