@@ -8,7 +8,7 @@
 - Now [RENYU AI](https://renyu.ai) Team (2023.02~)
 - Now [Project ELIV](https://eliv.kr) Team (2024.06~)
 - Live in 🇰🇷
-- Chosun University Dept. of Information and Communication Engineering (2024.03~)
+- Chosun University Department of AI Software (Information and Communication Engineering Major) (2024.03~)
 
 ## 🔨 Skill
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
